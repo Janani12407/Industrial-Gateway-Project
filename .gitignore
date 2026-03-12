@@ -1,0 +1,14 @@
+# .NET Build Folders
+bin/
+obj/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# IDE Settings
+.vs/
+.vscode/
+
+# Temporary Data
+live_data.txt
